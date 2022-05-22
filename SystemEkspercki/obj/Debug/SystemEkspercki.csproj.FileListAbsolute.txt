@@ -1,0 +1,69 @@
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\SystemEkspercki.exe.config
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\Franchaise.clp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\mscorlib.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\System.Net.Http.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\System.Net.Http.xml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\normidna.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\normnfc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\normnfd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\normnfkc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\bin\Debug\normnfkd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\MainWindow.baml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\App.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki_MarkupCompile.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.g.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.Properties.Resources.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.csproj.GenerateResource.Cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem-master\SystemEkspercki\obj\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\Franchaise.clp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\SystemEkspercki.exe.config
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\mscorlib.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\System.Net.Http.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\System.Net.Http.xml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\normidna.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\normnfc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\normnfd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\normnfkc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\bin\Debug\normnfkd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\MainWindow.baml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\App.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki_MarkupCompile.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.g.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.Properties.Resources.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.csproj.GenerateResource.Cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\FranchaiseSystem\SystemEkspercki\obj\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\SystemEkspercki.exe.config
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\Franchaise.clp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\SystemEkspercki.exe
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\SystemEkspercki.pdb
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\mscorlib.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\System.Net.Http.dll
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\System.Net.Http.xml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\normidna.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\normnfc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\normnfd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\normnfkc.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\bin\Debug\normnfkd.nlp
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\MainWindow.baml
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\App.g.cs
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki_MarkupCompile.cache
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.g.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.Properties.Resources.resources
+C:\Users\Hp\Downloads\Test\Exam\FranchaiseSystem-master\Preference Expert System\SystemEkspercki\obj\Debug\SystemEkspercki.csproj.GenerateResource.Cache
